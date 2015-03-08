@@ -1,0 +1,1 @@
+../../../SCHM/SCHM.uproject  /Game/schm -Messaging -SessionId=7BDE09E84AFA7D57F907D5B33EBBBDCE -SessionOwner=melon000 -SessionName='Play On Device' -iterative
